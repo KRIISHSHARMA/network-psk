@@ -1,4 +1,6 @@
 #!/bin/bash
+#  Specifying the interpreter with above statement
+
 
 cd /etc/NetworkManager/system-connections/ 
 ls
