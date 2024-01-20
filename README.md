@@ -4,3 +4,5 @@
 ``` sh
 bash net-psk.sh 
 ```
+- TYPE THE NAME OF NETWORK-CONNECTION YOU WANT TO SEE PASSWORD OF
+- FIND WIFI-SECURITY SECTION AND SEE psk = <your password> 
