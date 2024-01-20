@@ -1,16 +1,6 @@
 # network-psk
-## Use these or just use the bash script given
-
-1. Go to sysem-connections folder
+- USE THE BASH SCRIPT
+- INSTALL SCRIPT THEN TYPE IN TERMINAL :
 ``` sh
-cd /etc/NetworkManager/system-connections/
+bash net-psk.sh 
 ```
-2. see all conected/previously connected devices
-``` sh
-ls
-```
-3. cat the device you want to see password of , with sudo  
-``` sh
-sudo cat <device name>
-```
-4. find password in [wifi-security]
