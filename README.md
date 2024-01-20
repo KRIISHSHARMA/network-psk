@@ -1,4 +1,5 @@
 # network-psk
+## Use these or just use the bash script given
 
 1. Go to sysem-connections folder
 ``` sh
